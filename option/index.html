@@ -1,0 +1,49 @@
+<html>
+
+<head>
+  <style>
+    body{
+      font-size: 14px;
+    }
+    .options-title {
+      padding-left: 10px;
+      margin-top: 10px;
+      font-size: 16px;
+      background:#ededeb;
+      height: 25px;
+    }
+    #tooltip-on{
+      margin-top:-15px;
+    }
+#tooltip-off{
+  margin-top: 10px;
+}
+.options-select{
+  padding-left: 20px
+}
+    .save-btn {
+      width: 50px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <p class="options-title"> Option : Show search results when double-click on word. </p>
+  <div class="options-select">
+    <input type="radio" name="tooltipOption" value="on" id="tooltip-on">
+    <label for="tooltip-on"> On</label>
+  </div>
+  <div class="options-select">
+    <input type="radio" name="tooltipOption" value="off" id="tooltip-off">
+    <label for="tooltip-off"> Off</label>
+  </div>
+
+  <button type="button" class="save-btn" id="tooltip-save-btn">Save</button>
+
+
+</body>
+<script src="option.js"></script>
+
+</html>
