@@ -1,5 +1,9 @@
 Longdo Dict Firefox Plug-in
 -------------
+i[](screenshot/Screenshot2.png)
+i[](screenshot/Screenshot3.png)
+i[](screenshot/Screenshot4.png)
+i[](screenshot/Screenshot1.png)
 
 This extension is created for Firefox user who love Longdo Dictionary, one of the most popular English/Thai online dictionaries (http://dict.longdo.com)
 
@@ -21,4 +25,4 @@ This extension is created for Firefox user who love Longdo Dictionary, one of th
 - คลิกที่สัญลักษณ์ของส่วนขยาย แล้วทำการพิมพ์คำที่ต้องการค้นหาลงในช่องค้นหา และคลิกที่สัญลักษณ์การค้นหาเพื่อแสดงผล
 - คลิกสองครั้งที่คำและจะมี pop up แสดงผลแสดงขึ้นมาทันที
 	 - แต่หากผู้ใช้งานไม่ต้องการที่จะให้แสดง pop up ขึ้นมา สมารถทำการคลิกขวาที่สัญลักษณ์ของส่วนขยาย และเลือกเมนู "Manage extension" > คลิก "off" > คลิก"save">  ทำการรีโหลดหน้าเว็บเพจ หรือ Firefox หนึ่งครั้ง
-**สิ่งที่ควรรู้ :** ส่วนขยายจะไม่ทำงานเมื่ออยู่ในหน้าของ Firefox Web Store
+	 **สิ่งที่ควรรู้ :** ส่วนขยายจะไม่ทำงานเมื่ออยู่ในหน้าของ Firefox Web Store
