@@ -1,9 +1,9 @@
-Longdo Dict Firefox Plug-in
+Longdo Dict Add-on for Firefox
 -------------
 
-This extension is for Firefox users who love Longdo Dictionary, one of the most popular English/Thai online dictionaries service (http://dict.longdo.com).
+This add-on is for Firefox users who love Longdo Dictionary, one of the most popular English/Thai online dictionaries service (http://dict.longdo.com).
 * [Documentation](#documentation)
-* [Feature](#feature)
+* [Features](#features)
 * [Download](#download)
 * [License](#license)
 
@@ -23,7 +23,7 @@ This extension is for Firefox users who love Longdo Dictionary, one of the most 
 **Important :** Note that all extensions are disabled on Firefox Web Store pages (including this one). Do not try the extension on this page.
 
 ## Download
-[Longdo Dict Firefox Plug-in]()
+[Longdo Dict Firefox Add-on]()
 
 ## License
-[License]()
+GNU General Public License 2.0
