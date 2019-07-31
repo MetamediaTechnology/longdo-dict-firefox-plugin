@@ -8,15 +8,13 @@ This extension is created for Firefox user who love Longdo Dictionary, one of th
 * [License](#license)
 
 ## Documentation
--------------
-![Screenshot2](https://user-images.githubusercontent.com/51812582/61927506-252edd80-af9f-11e9-879c-1ca7f4cff8ab.png)
-![Screenshot3](https://user-images.githubusercontent.com/51812582/61927488-15af9480-af9f-11e9-90a8-0f937af2c968.png)
-![Screenshot4](https://user-images.githubusercontent.com/51812582/61927832-7f7c6e00-afa0-11e9-89eb-550c7301d7a5.png)
-![Screenshot1](https://user-images.githubusercontent.com/51812582/61927884-bce0fb80-afa0-11e9-9c18-bc15b441b71d.png)
+![Screenshot2](https://user-images.githubusercontent.com/51812582/62185585-415ec000-b38d-11e9-95ab-31a08c9b28d6.png)
+![Screenshot3](https://user-images.githubusercontent.com/51812582/62185590-47ed3780-b38d-11e9-9864-dda1379ac09d.png)
+![Screenshot4](https://user-images.githubusercontent.com/51812582/62185591-47ed3780-b38d-11e9-8818-77fef0932bbf.png)
+![Screenshot1](https://user-images.githubusercontent.com/51812582/62185600-4cb1eb80-b38d-11e9-93a0-d43852e117ec.png)
 
 
 ## Feature
--------------
 - Right click on the selected text and go to menu "Translate in Longdo"
 - Click on extension icon , type the desired  word and click search icon to search
 - Double-click any word to view its result in a small pop-up bubble
@@ -24,9 +22,7 @@ This extension is created for Firefox user who love Longdo Dictionary, one of th
 **Important :** Note that all extensions are disabled on Firefox Web Store pages (including this one). Do not try the extension on this page.
 
 ## Download
--------------
 [Longdo Dict Firefox Plug-in]()
 
 ## License
--------------
 [License]()
