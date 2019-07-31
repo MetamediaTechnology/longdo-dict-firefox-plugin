@@ -1,7 +1,7 @@
 
 browser.storage.local.get("tt", function (items) {
 
-    if (items.tt != "off") {
+    if (items.tt == "on") {
         console.log("Tooltip is on")
 
         document.addEventListener('dblclick', showMeaning);
