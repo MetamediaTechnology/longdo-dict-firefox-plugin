@@ -3,7 +3,7 @@ Longdo Dict Add-on for Firefox
 
 This add-on is for Firefox users who love Longdo Dictionary, one of the most popular English/Thai online dictionaries service (http://dict.longdo.com).
 * [Documentation](#documentation)
-* [Feature](#feature)
+* [Features](#features)
 * [Download](#download)
 * [License](#license)
 
@@ -26,4 +26,4 @@ This add-on is for Firefox users who love Longdo Dictionary, one of the most pop
 [Longdo Dict Firefox Add-on]()
 
 ## License
-[License]()
+GNU General Public License 2.0
