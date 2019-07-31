@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Longdo Dict Firefox Plug-in",
+  "name": "Longdo Dict Firefox Add-on",
   "description": "Search by Longdo Dict",
   "version": "1.0.0",
   "icons": {
