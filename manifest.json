@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Longdo Dict Firefox Add-on",
+  "name": "Longdo Dict Add-on",
   "description": "Search by Longdo Dict",
   "version": "1.0.0",
   "icons": {
@@ -42,5 +42,10 @@
     },
     "default_title": "Longdo Dict",
     "default_popup": "browserAction/index.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "chutikran40@gmail.com"
+    }
   }
 }
