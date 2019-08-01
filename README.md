@@ -23,7 +23,7 @@ This add-on is for Firefox users who love Longdo Dictionary, one of the most pop
 **Important :** Note that all extensions are disabled on Firefox Web Store pages (including this one). Do not try the extension on this page.
 
 ## Download
-[Longdo Dict Firefox Add-on]()
+[Longdo Dict Firefox Add-on](https://addons.mozilla.org/th/firefox/addon/longdo-dict-add-on/)
 
 ## License
 GNU General Public License 2.0
